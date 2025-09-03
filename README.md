@@ -19,7 +19,7 @@
 <table align="center" style="border: none;">
 <tr>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Education-B.E.%20IT%20FCRIT-00f7f7?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Education-B.E.%20IT%20Mumbai University-00f7f7?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   <br><b>CGPA: 8.28</b>
 </td>
 <td align="center" width="33%">

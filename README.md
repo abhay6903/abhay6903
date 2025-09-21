@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 👨‍💻 **Data Scientist @ Passionbytes** | 📍 **Mumbai, India 🇮🇳**
+### 👨‍💻 **Data Scientist** | 📍 **Mumbai, India 🇮🇳**
 
 </div>
 

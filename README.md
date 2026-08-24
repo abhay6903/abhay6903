@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 👨‍💻 **Data Scientist** | 📍 **Mumbai, India 🇮🇳**
+### 👨‍💻 **AI Engineer** | 📍 **Mumbai, India 🇮🇳**
 
 </div>
 
